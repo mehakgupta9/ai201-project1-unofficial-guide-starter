@@ -1,0 +1,68 @@
+Source: Reddit r/UMD
+Thread: most accomplished professors at UMD CS/MATH/EE
+URL: https://www.reddit.com/r/UMD/comments/18wa5xg/most_accomplished_professors_at_umd_csmathee/
+Date: January 2024
+
+Original Post by u/Advanced-Sector-6535:
+super random and unimportant question, but which professors are considered the most accomplished /highest "prestige" associated with them in UMD CS, Math, and EE (Electrical Engineering)?
+
+I'm sure all of them are great and this is not a question in great faith, but obviously, some of them have had to have produced "better" research and have been "more productive" in their time here at UMD or in their time as researchers/professors.
+
+---
+
+Comment 1 by u/Dubby8692737 (15 upvotes):
+For CS definitely Prof Goldstein and Prof Dickerson
+
+Reply by u/joos2010kj (3 upvotes):
+if asking who's most "renowned", it would be jiabin. he is a superstar on twitter.
+
+---
+
+Comment 2 by u/jheavner724 (15 upvotes):
+* James Yorke helped coin the word "chaos" in a seminal paper written with his student.
+* Michael Rapaport is known worldwide for his work in arithmetic algebraic geometry. He was also Fields Medalist Peter Scholze's doctoral advisor.
+* Larry Washington is a number theorist who famously proved the Ferrero-Washington theorem in the field of Iwasawa theory (a field named for his doctoral advisor). His book on cyclotomic fields is also a standard reference.
+* Jeffrey Adams heads the Atlas of Lie Groups and Representations, an analogous program to the classification of finite simple groups.
+* Bill Goldman specializes on geometry on manifolds. He's written a number of well-known papers. He also started UMD's experimental geometry lab.
+* Jonathan Rosenberg is an expert in algebraic topology, K-theory, and mathematical physics. He wrote a GTM on algebraic K-theory.
+* And one physicist: Jim Gates is one of the founders of supersymmetry. He also pioneered the use of adinkras in physics. He served on Obama's council of science advisors, and he's appeared on television often, including on TurboTax and Verizon commercials.
+
+---
+
+Comment 3 by u/JimJamb0rino (29 upvotes):
+many of the CS faculty are super well known IIRC. I'm not in that field but Dr Katz in CS has an H index of nearly 100. I think there are CS faculty w h indexes over 100. An h index is a measure of your citation count/prevalence.
+
+For comparison, some of the most prominent neuroscience at UMD are at like 60. While it isn't a perfect measure, its a good enough one.
+
+Reply by u/DonaldPShimoda (31 upvotes):
+h-index favors fields with high publications rates, like AI/ML. In some fields a "prestigious" h-index might be single-digit. While you're right that someone having a high h-index can be taken to mean they are "prestigious" in some sense, it is important to keep in mind that a low h-index is not an indicator of the opposite.
+
+David Van Horn is fantastically well-known in the field of programming languages, for instance, but almost no PL researcher has over a hundred publications to bump up that h-index.
+
+---
+
+Comment 4 by u/Superb-Garlic-1191 (9 upvotes):
+Samet is incredibly respected in his field. Mount once told us in 420 he was an expert at data structures but "the guy" was Samet. He's also referenced by many famous computer scientists such as Knuth as well.
+
+Reply by u/Aoikumo (4 upvotes):
+Too bad he’s kind of a looney now. Really amazing accomplishments, but really, really old.
+
+Reply by u/Aggravating-Job5377 (1 upvote):
+Now? He has been looney for at least 20 years.
+
+---
+
+Comment 5 by u/New_Age_Dryer (5 upvotes):
+* Childs invented quantum walks iirc.
+* We recently copped Daniel Gottesman, who founded an important theorem in quantum computing (I actually assumed he'd be an old man, given that I learned about the theorem in textbooks!)
+* Physics, but one of the authors of the famous MTW Gravitation textbook worked here (rip og)
+
+---
+
+Comment 6 by u/air_hanuman (2 upvotes):
+Isaak Mayergoyz (Power Electronics and Power Systems)
+
+---
+
+Comment 7 by u/mkdz (7 upvotes):
+Kruskal

@@ -1,0 +1,110 @@
+Source: Reddit r/UMD
+Thread: Difficulty of CS Grad Classes at UMD?
+URL: https://www.reddit.com/r/UMD/comments/1tzvr3s/difficulty_of_cs_grad_classes_at_umd/
+Date: June 2026
+
+Original Post:
+[deleted]
+
+---
+
+Comment 1 by HelpfulTerpHere (4 upvotes):
+Have you reviewed the course website?
+https://www.cs.umd.edu/~hanshao/cmsc848p-26.html
+
+This page's information would not seem to align with the claim of "You’re probably just going to read a bunch of papers and have a good time."
+
+Reply by Sharp-Independent138 (1 upvote):
+Yeah, I have. It has fewer tests and assignments compared to the undergrad stuff I’ve taken, but unfortunately that’s not really a gauge of difficulty. I think I’ll just take it and drop it if it’s too much in the fall.
+
+Reply by nillawiffer (6 upvotes):
+(In full disclosure, I am surprised you were able to get permission for this class.)
+
+Probably sizing up this course description using a typical undergrad perspective (“gee, how many tests or projects?”) will only tell part of the story of what is in store for you. Grad school (especially in CS) is an entirely different culture.
+
+Do a couple of the papers on the reading list each take a solid week or two to get your head around? Yeah, suck it up. Nobody cares.
+
+Is the professor free to leverage ambiguity in the syllabus to fill in what they want as they go? Yup. Deal with it.
+
+Will anyone hold you by the hand, lead you along the way, and remind you of obligations? Not a chance.
+
+It is what it is, and what it is not is like any undergrad course you have ever experienced.
+
+Some 600-level courses might look like a “stout” 400-level course. Those can be a gentler introduction to graduate school expectations.
+
+Reply by Sharp-Independent138 (2 upvotes):
+Makes sense, thanks! If there’s a reading list I’ll probably take a look. Going to brush up on undergraduate probability this summer anyway to make sure I’m solid foundationally.
+
+Reply by bargle0 (1 upvote):
+The hardest class I ever took, bar none, was CMSC631 with Jeff Foster.
+
+Most of the 700- and 800-level courses I took were basically reading papers and having a good time, along with a major project that was also a good time.
+
+I kind of miss those days.
+
+---
+
+Comment 2 by --GastricBypass-- (1 upvote):
+The answer depends on the class. Graduate classes range from much easier to much harder than 400-level courses.
+
+Reply by Sharp-Independent138 (1 upvote):
+The one I’m taking is non-PhD qualifying, one of the special-interest classes if that makes any difference.
+
+Reply by bargle0 (4 upvotes):
+~~You’re probably just going to read a bunch of papers and have a good time.~~
+
+Nah, that other guy has the scoop from the course website.
+
+---
+
+Comment 3 by sarcastro16 (6 upvotes):
+“haven’t taken any 400-level classes yet”
+
+Who’s the advisor handing out grad AI permission to you without any 400s at all?
+
+This has DISASTER written all over it.
+
+Reply by Sharp-Independent138 (0 upvotes):
+Screenshot from a friend. I took CMSC330 and CMSC351 this past spring. The class I’m taking has no specific prerequisite, and the professor gave me permission to take it.
+
+Reply by sarcastro16 (5 upvotes):
+How’d you con the professor into giving the okay?
+
+Reply by Sharp-Independent138 (0 upvotes):
+Followed the department guidelines and sent an email with my GPA, year, courses I’ve taken, and why I want to take the class.
+
+I don’t understand why this is so unbelievable and why people keep insinuating I’m lying.
+
+Reply by nillawiffer (1 upvote):
+I don’t know that anyone thinks you are lying.
+
+What seems surprising is that the undergrad director approved it.
+
+The overwhelming advising lore would predict a poor outcome in short order. A student actually prepared for upper-level work is someone they’d already know about and be working with separately.
+
+The CMSC848 course won’t count toward major requirements, and the opportunity cost is a 400-level class that could bring someone closer to graduation.
+
+The seminar looks like it is being taught by a brand-new assistant professor who has never taught here before. They likely have no clue about advising practices and are delighted to have a student—any student—ask about joining a low-demand seminar.
+
+The honest message from a knowledgeable professor is often “it’s no problem,” which in graduate school means “…for them.”
+
+Undergraduate advisors are supposed to patiently guide students toward things that are useful for them. In this case, they gave a rubber-stamp approval. Hope it works out for you!
+
+Reply by Sharp-Independent138 (1 upvote):
+For some context:
+
+- The deleted thread accused me of lying about being enrolled.
+- I’ve been involved with ML research since high school and have a solo-author publication.
+- I’m taking the course because I want to do optimization research, where learning theory is important.
+- The only prerequisite I don’t explicitly meet is probability, which I’m self-studying this summer.
+- Worst case, I can drop the course if it’s too much.
+- I’m interested in the professor’s research and might want to work with them later.
+
+I appreciate the advice, but since this course isn’t load-bearing for graduation, I’ll probably either be fine or drop it if needed.
+
+Reply by ReceiptBringerUMD (3 upvotes):
+No, the deleted thread did not accuse you of lying.
+
+It expressed confusion because you referred to yourself as an incoming sophomore while also making posts implying you were already a student here.
+
+Once you clarified what you meant, the message was deleted.

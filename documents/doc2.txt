@@ -1,0 +1,45 @@
+Source: Reddit r/UMD
+Thread: Good CS professors for undergrads to do research with?
+URL: https://www.reddit.com/r/UMD/comments/i4baii/good_cs_professors_for_undergrads_to_do_research/
+Date: August 2020
+
+Original Post by u/Clean_Sheepherder_24:
+Hi guys. I'm looking to work in a CS research lab and I was wondering if any of you have had notably good experiences working with any professors. Are there any especially known for working with undergrads?
+
+I worked in a CV/ML lab for a summer (not UMD) and I liked it. Are there any undergrad-friendly professors working in those areas?
+
+---
+
+Comment 1 by u/[deleted] (6 upvotes):
+Definitely talk to Dave Levin! Take a look at the breakerspace website here.
+
+---
+
+Comment 2 by u/dml-at-umd (3 upvotes):
+All good answers so far. Let me also add to the list Leilani Battle, who works at the intersection of databases and visualization.
+
+Leilani and I are the chairs of the departmental honors program, where we try to get students more engaged in research. We are working on efforts to broaden these efforts beyond Honors so that even more students can get involved in open-ended problems. The past couple years, I’ve run a “research bootcamp” at Tech+Research, an all-women “research hackathon” in parallel with Technica (the world’s largest all-female and non-binary hackathon, run by UMD students!). We would love to do something similar with BIPOC students and more.
+
+There are several big challenges in getting students involved in research; the two biggest are:
+
+1. Students tend not to know what research faculty are doing. We are throwing around ideas that would involve getting faculty in front of students much earlier on (freshmen classes ideally) about what research they are doing — it would also help new students to the major have a deeper understanding of what CS is. But one thing you can try to do is attend talks (talks.cs.umd.edu) once the semester starts back up; it’s a great way to engage with the various research groups and learn more.
+
+2. There aren’t enough faculty to advise as many students who want to do research. There are two ways to address this: hire more faculty (we try; it’s not up to us how many we are allowed to hire), or increase the number of students any given faculty member can advise. It’s the latter where my Breakerspace lab comes into play. I am trying to scale up how many students can do research by exploring students working in groups instead of individually. At any point in time, I have about two dozen students working with me — and it’s been awesome! They’re publishing like mad, tackling hard problems that no one student could do. I’m hoping to develop a bit of a “template” that other professors can copy so that we can start really creating as many research opportunities as possible.
+
+Until that happens, just try to get on the radars of people with whom you’d like to work, engage with them and their students at talks, and try to come up to speed on their work. And feel free to hit me up if you have any specific question, and certainly for honors.
+
+Reply by u/LinkifyBot (1 upvote):
+I found links in your comment that were not hyperlinked:
+
+* talks.cs.umd.edu
+
+---
+
+Comment 3 by u/[deleted] (3 upvotes):
+Look into Tom Goldstein. I knew a few people that worked under him. He does machine learning and optimization research.
+
+John Dickerson does some awesome stuff too. Machine learning & algorithms development.
+
+Dave Levin, like the other comment pointed out, does cybersecurity research.
+
+From what I've found, younger professors will typically be more active with research. 35-50 years old or so.

@@ -1,0 +1,38 @@
+Source: Reddit r/UMD
+Thread: 414 with Michael Marsh?
+URL: https://www.reddit.com/r/UMD/comments/ds979u/414_with_michael_marsh/
+Date: November 2019
+
+Original Post by u/TechiesIsDeWay:
+Hey terps, I want to know how well( or horrible) Michael marsh is at teaching 414. From what I know, he was a pretty bad lecturer in the past but I've seen some good reviews of him last year. People that have taken him last semester or is currently having him this semester, has he changed his ways?
+
+Edit: Grammar
+
+---
+
+Comment 1 by u/distancevector (7 upvotes):
+The projects/homework/exercises are in C. Some project descriptions are kind of vague but eventually you figure it out. We're using gitlab instead of the submit server this semester. The deadlines are fair and well-thought out imo; he leaves about a week in between the end of a project and a midterm so you aren't studying and working on a project at the same time, which is nice. Both midterms were in class.
+
+As far as lectures go, he basically just reads off slides but pauses every now and then to answer questions or provide extra insight. Sometimes you have to google a concept on your own because there's not enough slides dedicated to helping us understand it or they're just poorly written. In the beginning of the semester he made us do group exercises which were pretty useless, but we've stopped doing those. There's no clicker questions and I've probably missed about half his lectures but the class has been a breeze.
+
+Reply by u/[deleted] (1 upvote):
+Do the projects still have public and release tests?
+
+Reply by u/distancevector (1 upvote):
+Nope. They use scripts to test your code's output but they're not given to you.
+
+---
+
+Comment 2 by u/samsung1969 (2 upvotes):
+Wondering about the same thing. Also what language is this course generally taught in?
+
+Reply by u/[deleted] (1 upvote):
+C
+
+Reply by u/Freazur (1 upvote):
+Mainly C, but this semester we also had one assignment which made us use Java and also there was one part of the third project which let us use whatever language we want - which I found Python to be best suited for.
+
+---
+
+Comment 3 by u/Yoman471 (1 upvote):
+I love his class. He's a very practical teacher, just study on your own and try to enjoy the material and it's an easy A+

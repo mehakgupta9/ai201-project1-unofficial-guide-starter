@@ -1,0 +1,97 @@
+Source: Reddit r/UMD
+Thread: cs professors
+URL: https://www.reddit.com/r/UMD/comments/u2orir/cs_professors/
+Date: April 2022
+
+Original Post by u/snipingwizard:
+How would you rate your professors ?
+In terms of lecture quality, research mentor or any other criteria
+
+---
+
+Comment 1 by u/jackintosh157 (18 upvotes):
+Professor larry herman #1
+
+Reply by u/[deleted] (26 upvotes):
+It’s INSTRUCTOR Larry.
+
+Reply by u/nillawiffer (15 upvotes):
+That would be LECTURER Larry, but he is still #1.
+
+Reply by u/Charmander787 (1 upvote):
+Will say that when I had Larry for 216, grading was kinda slow but don’t know if that’s a TA Diff or something else
+
+Reply by u/zero2000t (1 upvote):
+Daherman
+
+---
+
+Comment 2 by u/dmkolobanov (28 upvotes):
+Instructor/Lecturer/Anything but professor Larry Herman is the GOAT. Best lectures. Best project descriptions. Best practice exams. The actual exams are tough, but the practice exams leave you prepared. Nobody is better than Larry.
+
+Some of the other great CS professors are Nelson Padua-Perez, Anwar Mamat, Dave Mount, and David Van Horn.
+
+James Reggia, Stevens Miller, and Garrett Vanhoy are all fairly average. I’m currently taking Miller and Vanhoy’s classes, so that’s just based on what I’ve experienced thus far.
+
+Jason Fillippou, Amol Deshpande, and Ilchul Yoon are all subpar, in my opinion.
+
+And then there’s Michelle Hugue. She’s the fucking worst, by virtue of the fact that she literally does not teach. I don’t know what she looks like. I don’t know what her voice sounds like. The only reason I know that Dave Mount is such a great lecturer is because Meesh had us watching Mount’s lectures.
+
+Oh yeah, forgot about Mohammed Nayeem Teli. It’s hard to judge a professor based on how they teach a disaster of a class like 351. I’d say Teli is pretty good, all things considered.
+
+Reply by u/PacnetNetty (6 upvotes):
+Marsh seemed to not be well liked early on, but these days, he is awesome in my opinion. My favorite professor out of all I've taken (420, 414, 436).
+
+For Jason, I think he was one of the most dedicated people in terms of lecturing style and had tons of attention to detail. But his version of 250 at least in spring 2020 was really difficult imo.
+
+Reply by u/Weekly-Average-9566 (3 upvotes):
+Jason's first meltdowns were before COVID.
+
+Reply by u/dmkolobanov (2 upvotes):
+I find it hard to compare Teli with some of the other professors, and I think that’s because it’s hard to separate a professor from the course they teach. That’s at least part of the reason why I have Jason so low, because I despised 250.
+
+I had Jason in fall 2019 and spring 2020. I had to take 250 twice. In fall 2019, someone said “okay boomer” to him on Piazza (because that was actually funny at the time) and Jason got really pissed off. It was a strange look considering he was normally pretty lighthearted. And of course, there was the meltdown at the end of spring 2020. What a disaster that was. I already thought Jason was a mediocre lecturer. He was easily sidetracked and in my opinion, just didn’t explain the math concepts very well. But his behavior at the end of that first online semester permanently soured me on Jason. I know we were all stressed out, but what he said was incredibly unprofessional. If Jason doesn’t teach here anymore, that’s probably for the best.
+
+Teli is also an interesting case because it’s almost impossible to bring up Teli without comparing him to Kruskal, who of course has the reputation of being awful. All of this makes it tough to look at Teli objectively. The biggest credit I can give to Teli is that he’s always willing to answer people’s questions. Even if the question is stupid. Even if it’s already been answered five times and you still need additional clarification. Teli will happily address everyone’s questions, even if it causes class to run a little long. That’s good for a student like me, because I’m bad at math and I need the concepts forcibly drilled into my skull. I don’t think I could go as far as to call Teli one of the GOATs; he sure doesn’t compare to Larry or Dave Mount when it comes to lecture quality, in my opinion. But it’s all just that, a matter of opinion.
+
+Reply by u/snipingwizard (1 upvote):
+Thank you so much
+
+---
+
+Comment 3 by u/[deleted] (10 upvotes):
+Gasarch is the absolute goat. Does not give a single fuck as to what he says while class is being recorded and is probably the most accessible professor I’ve ever had. His lectures are a bit fast, but he definitely make accommodations for students.
+
+Dude will get on a Zoom meeting w you and will respond to emails even at like 1-2 am.
+
+Love that man.
+
+Reply by u/OuroborosMaia (2 upvotes):
+Gasarch is a legend. He was my advisor and he'd message me at like 2 am asking for a Zoom meeting to talk about something and then the meeting would fix 1 typo and then turn into a discussion of unrealistic standards of Hollywood aesthetics
+
+---
+
+Comment 4 by u/Dangaruz (8 upvotes):
+Jose Calderon is the best professor to ever exist
+
+---
+
+Comment 5 by u/kingpenai (5 upvotes):
+Check out some reviews on planetterp.com
+
+---
+
+Comment 6 by u/Inttegers (5 upvotes):
+I really enjoyed Mike Hicks and Andrew Childs. If you take 475, Wiley Wong is amazing, and also an SSBM player, who will probably play w you if you ask.
+
+---
+
+Comment 7 by u/AlliedOrphan203 (5 upvotes):
+Some of my favorites have been Mount, Larry, Nelson, Anwar, Van Horn, Calderon, and Marsh.
+
+I know Jason has been a bit controversial in the past, but I liked his teaching style and I think he was also a great professor.
+
+---
+
+Comment 8 by u/Gopal6600 (4 upvotes):
+Fawzi, Nelson, Vanhoy, Jason, Van Horn, and Justin are all legendary. They reminded me why the CS part of my degree exists. I genuinely looked forward to their lectures.

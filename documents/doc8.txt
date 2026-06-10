@@ -1,0 +1,93 @@
+Source: Reddit r/UMD
+Thread: What is the hardest CS class you guys took (Undergraduate only)
+URL: https://www.reddit.com/r/UMD/comments/1iwmq6y/what_is_the_hardest_cs_class_you_guys_took/
+Date: February 2025
+
+Original Post by u/Hot_Cardiologist4949:
+What the title says
+
+---
+
+Comment 1 by u/Blue_5ive (62 upvotes):
+451 algorithms had my brain in so much mush I thought I was going to have to stay an extra semester lol. I lucked out doing well in 351 and thought I could do it. I basically camped in office hours and stained every test and paper with tears of regret and pain.
+
+Reply by u/nillawiffer (-12 upvotes):
+And it was worth it too, yes?
+
+We should not discuss difficulty at the flagship without also considering value.
+
+Reply by u/Blue_5ive (15 upvotes):
+It really opened my eyes to how much I didn’t know. I don’t think I would go back and take os or compilers in its place, although I could scour for some other class. I don’t think it was a bad class, I was just way out of my depth.
+
+Reply by u/nillawiffer (15 upvotes):
+"It really opened my eyes to how much I didn’t know."
+
+Which is wisdom. If you would have taken a different class then you would not have had the value.
+
+We don't come to college to validate what we know. We come to find what we don't know. Actionable information for young Terps: Take the hard sh*t that has best value. Otherwise you are paying top dollar for less value. Plumping your brain up with 451 gives you mental muscle we apply everywhere.
+
+Reply by u/Mats114 (5 upvotes):
+🫡
+
+Reply by u/navster100 (2 upvotes):
+Dang that's crazy 451 is the reason I was able to graduate. 411 was def the hardest for me or just anything in the 410-429. But it could have just been a difference in professors or the fact that I took it in the summer. This was also the only cs class I actually studied for because I finally learned how to study
+
+---
+
+Comment 2 by u/nightsvipe (20 upvotes):
+351 those damn proofs still haunt me
+
+---
+
+Comment 3 by u/AkageTsuneshima (13 upvotes):
+easily Bobby’s 417. but I would also say it was the most worthwhile class I took in the department, and Bobby’s certainly a character
+
+Reply by u/Brilliant_Prune_4117 (2 upvotes):
+id say bobbys 417 was probably the easiest class of all time
+
+---
+
+Comment 4 by u/EB4950 (14 upvotes):
+i thoight 330 made no sense.
+
+Reply by u/navster100 (1 upvote):
+When I took 330 they decided to try out rust for the first time and I almost died
+
+---
+
+Comment 5 by u/SOT-NumberNine (11 upvotes):
+Surprised no one has said CMSC417 yet (computer networks). Some of those projects were genuinely brutal even though the subject matter made some sense.
+
+---
+
+Comment 6 by u/ZeroTerabytes (7 upvotes):
+So far? I'd say CMSC216
+
+---
+
+Comment 7 by u/nikecash (10 upvotes):
+Probably 430. For some reason I always had slight trouble with recursion (idk if i didn’t practice much with it or what) but this class beat it into me and I came out stronger. It was also super cool but it made me pull my hairs out.
+
+edit: 430 was the parsing and lexing part of 330 but more in depth. It was the weak link in my understanding and I thought it would be a good idea to take 430 to get better at it.
+
+---
+
+Comment 8 by u/fidgey10 (73 upvotes):
+Not a CS major, but I have heard from CS people that showering 101 is absolutely brutal and near impossible for them
+
+---
+
+Comment 9 by u/No-Interaction-6552 (82 upvotes):
+Art majors in the replies talking about “showering 101” like they don’t have to take an unemployment preparation class before graduation
+
+Reply by u/sywy1874 (60 upvotes):
+Not that different nowadays for CS 😭
+
+Reply by u/No-Interaction-6552 (4 upvotes):
+I mean its 100% guaranteed for art majors
+
+Reply by u/Dry_Initial2707 (11 upvotes):
+Cope. The CS to McDonald’s pipeline is becoming more prominent.
+
+Reply by u/Effective-Shape6841 (1 upvote):
+There’s more to CS than SWE!
