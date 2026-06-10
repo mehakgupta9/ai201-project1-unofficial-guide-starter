@@ -79,11 +79,12 @@ I will use all-MiniLM-L6-v2 from the sentence-transformers library to generate e
 **Top-k:**
 For each query, I will retrieve the top 4 most relevant chunks from the vector database.
 
-**Production tradeoff reflection:**
+**Reasoning:**
 Since my corpus consists of student reviews and Reddit discussions, retrieving the top 4 chunks should provide enough context for the LLM to answer questions while keeping the retrieved information focused and relevant. If I retrieve too few chunks, the system may miss important evidence or alternative student perspectives. If I retrieve too many chunks, the context may include unrelated reviews or conflicting opinions, which could make the generated answer less accurate.
 
 Semantic search is particularly useful for this project because students may ask questions using different wording than the original documents. For example, a query such as “Which professor explains concepts clearly?” may retrieve reviews that mention “amazing lectures,” “easy to understand explanations,” or “great teaching style,” even if the exact phrase “explains concepts clearly” never appears in the document. By comparing the meaning of the text rather than exact keywords, embeddings allow the system to find relevant information across different writing styles and vocabulary.
 
+**Production tradeoff reflection:**
 If I were deploying this system for real users and cost was not a constraint, I would compare different embedding models based on retrieval accuracy, latency, context understanding, and multilingual support. Larger models may provide better semantic understanding and improve retrieval quality, especially for complex or ambiguous queries, but they typically require more computational resources and slower processing times. I would also consider whether the model performs well on short, opinion-based text such as student reviews and Reddit discussions, since understanding informal language is important for this domain.
 
 

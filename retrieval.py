@@ -48,7 +48,7 @@ def build_vector_store():
     print(f"Stored {len(all_chunks)} chunks in ChromaDB.")
 
 
-def retrieve(query, top_k=TOP_K):
+def retrieve(query, top_k=TOP_K, print_results=True):
     model = SentenceTransformer(EMBEDDING_MODEL)
 
     client = chromadb.PersistentClient(path=CHROMA_DIR)
@@ -61,20 +61,32 @@ def retrieve(query, top_k=TOP_K):
         n_results=top_k
     )
 
-    print("\nQuery:", query)
-    print("=" * 80)
+    retrieved_chunks = []
 
     for i in range(len(results["documents"][0])):
         document = results["documents"][0][i]
         metadata = results["metadatas"][0][i]
         distance = results["distances"][0][i]
 
-        print(f"\nResult {i + 1}")
-        print(f"Source: {metadata['source']}")
-        print(f"Chunk index: {metadata['chunk_index']}")
-        print(f"Distance: {distance:.4f}")
-        print("-" * 80)
-        print(document)
+        chunk = {
+            "text": document,
+            "source": metadata["source"],
+            "chunk_index": metadata["chunk_index"],
+            "word_count": metadata["word_count"],
+            "distance": distance
+        }
+
+        retrieved_chunks.append(chunk)
+
+        if print_results:
+            print(f"\nResult {i + 1}")
+            print(f"Source: {metadata['source']}")
+            print(f"Chunk index: {metadata['chunk_index']}")
+            print(f"Distance: {distance:.4f}")
+            print("-" * 80)
+            print(document)
+
+    return retrieved_chunks
 
 
 def main():
