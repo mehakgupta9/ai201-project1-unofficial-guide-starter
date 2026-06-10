@@ -98,7 +98,7 @@ If I were deploying this system for real users and cost was not a constraint, I 
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | What programming language is primarily used in CMSC414 with Michael Marsh? | Students report that CMSC414 is primarily taught using the C programming language, although some assignments may involve Java or allow other languages such as Python. |
+| 1 | What do students say about Larry Herman? | Students describe Larry Herman very positively, calling him one of the best CS lecturers. They mention strong lectures, good project descriptions, useful practice exams, and tough but fair exams.|
 | 2 | Which CMSC course was most frequently mentioned as difficult in the Reddit discussion about the hardest undergraduate CS classes? | CMSC451 (Algorithms) and CMSC351 were among the most frequently mentioned difficult courses, with students specifically discussing the challenges of algorithms and proofs. |
 | 3 | What study advice do multiple students give for succeeding in Nelson Padua-Perez's CMSC131 and CMSC132 courses? | Students repeatedly advise starting projects early, avoiding procrastination, attending office hours, and studying practice exams because the coursework and exams can be challenging despite Nelson's strong teaching. |
 | 4 | Which professor was recommended for undergraduate students interested in cybersecurity research? | Dave Levin was specifically recommended as a professor for students interested in research opportunities, particularly through his Breakerspace lab. |
